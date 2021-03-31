@@ -20,7 +20,7 @@
 
 .head {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-items: center;
   color: rgba(255, 255, 255, 0.9);
   
@@ -33,6 +33,7 @@
 .navbar .navcontainer .head  h1, h3 {
   text-align: center;
   color: rgba(255, 255, 255, 0.9);
+  padding: 1rem;
 }
 
 
@@ -91,4 +92,13 @@
     .links > * {
       font-size: 1rem;
     }
+}
+
+@media(min-width:1920px){
+  .navbar .navcontainer .head  h1, h3 {
+    font-size: 2rem;
+  }
+  .links > * {
+    font-size: 1.5rem;
+  }
 }

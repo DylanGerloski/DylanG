@@ -24,12 +24,12 @@ function Aboutme() {
         </div>
         <div className="intro-words">
           <p>
-            Hey there I'm Dylan and I am a soon to be graduate from Texas Tech
-            University. I am currently in search for work as a software
-            engineer or other job opportunities. Apart from software development, I've also 
-            made some machine learning applications as well as some other things. I wanted
-            to make this website to display some of those projects, as well as to practice my web
-            application skills. This is a fully responsive website, so feel free to check it out!
+            Hey there! I'm Dylan and I am a soon to be Texas Tech University graduate.
+            I will be graduating with a Computer Science degree and am interested in
+            software engineering work or other job opurtunities.I have experience in software development, 
+            machine learning applications, and have also done some work in Linux environemnts. I created this
+            website to display some projects I have worked on and further develop my web applications
+            skills. Feel free to explore this website and check out some of those projects!
            </p>
         </div>
         <div className = 'View-my-work'>

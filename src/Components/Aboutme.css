@@ -65,7 +65,7 @@
 
 .intro-words p{
     min-width: 25ch;
-    font-size: 1.25em;
+    font-size: 1.25rem;
     padding: 2rem;
 }
 
@@ -110,4 +110,20 @@
     }
 
 
+}
+
+@media (min-width:1440px) {
+    .intro-words p {
+        font-size: 1.5rem;
+    }
+}
+
+@media(min-width:1920px) {
+    .intro-words p {
+        font-size: 2rem;
+    }
+
+    .View-my-work {
+        font-size: 3.5rem;
+    }
 }

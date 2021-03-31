@@ -10,14 +10,14 @@ const projects = [
     {
         id: '1',
         name: 'Atomination',
-        description:'A Desktop game similiar to minesweeper (built with java). Each game can have between 2-4 players, and the winner is the player who controls all the circles on the board',
+        description:'A Desktop game similiar to minesweeper (built with java). Each game can have between 2-4 players, and the winner is the player who controls all the circles on the board.',
         link: 'https://github.com/DylanGerloski/Atomination',
         img: atom
     },
     {
         id: '2',
         name: 'Mandlebrot Set',
-        description: 'A C program that renders a picture from the mandelbrot set. Also features parrallel computing to speed up the rendering proccess',
+        description: 'A C program that renders a picture from the mandelbrot set. Also features parrallel computing to speed up the rendering proccess.',
         link: 'https://github.com/DylanGerloski/Parallelization-in-C',
         img: ms
 

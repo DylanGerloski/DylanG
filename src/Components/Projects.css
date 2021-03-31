@@ -105,3 +105,20 @@
     }
 }
 
+
+@media (min-width:1440px) {
+    .cards p {
+        font-size: 1.25rem;
+    }
+
+    .card-info a {
+        font-size: 1.25rem;
+    }
+}
+
+@media (min-width:1920px){
+    .cards p{
+        font-size: 2rem;
+    }
+}
+
