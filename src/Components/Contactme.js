@@ -29,7 +29,7 @@ import {faFile} from "@fortawesome/free-regular-svg-icons";
                     </div>
                     <div className = 'linkedin-container'>
                         <h3>
-                            Make sure to follow me on linkedIn to stay up to date with im doing!
+                            Make sure to add me on LinkedIn to stay up to date with I'm doing!
                             <a href = 'www.linkedin.com/in/dylan-gerloski' target = '_blank'>
                                 <FontAwesomeIcon icon = {faLinkedin} size = "2x" className = 'linkedin'></FontAwesomeIcon>
                             </a>
