@@ -1,0 +1,153 @@
+.Contactme-container {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    text-align: center;
+   
+
+}
+
+.Contactme-container > * {
+    padding: 2rem;
+  }
+  
+  
+  .Contactme-container .title-container {
+      width: 100%;
+      font-size: 2rem;
+      color: rgba(255, 255, 255, 0.9);
+      text-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+  }
+  
+  .Contactme-container .title-container h1 {
+      text-align: center;
+      color: rgb(86, 182, 86);
+  }
+
+  
+.body-container {
+    display: flex;
+}
+
+.body-container > * {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.socials-container > * {
+    margin: 2em;
+    background-color: rgba(0,0,0,.95);
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 0 0 1em rgba(0,0,0,.5);
+    min-width: 250px;
+
+   
+}
+
+.github-container h3 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.github-container a {
+    display: block;
+}
+
+.github {
+    transition: transform 250ms;
+    color: rgb(86, 182, 86);
+}
+
+.github:hover {
+    transform: translateY(2px);
+    color: aqua;
+}
+
+
+.linkedin {
+    transition: transform 250ms;
+    color: rgb(86, 182, 86);
+}
+
+.linkedin:hover {
+    transform: translateY(2px);
+    color: aqua;
+}
+
+.linkedin-container h3{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.linkedin-container a {
+    display: block;
+}
+
+.contacts-container {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    background-color: rgba(0,0,0,.95);
+    padding: 1em;
+    border-radius: 1em;
+    box-shadow: 0 0 1em rgba(0,0,0,.5);
+    color: rgba(255, 255, 255, 0.7);
+    height: 50%;
+    align-self: center;
+}
+
+.contacts-container h3 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.contacts-container > * {
+    flex: 1;
+}
+
+
+.resume-container  {
+    margin: 0 auto;
+}
+
+.resume {
+    transition: transform 250ms;
+    color: rgb(86, 182, 86);
+
+}
+
+.resume:hover {
+    transform: translateY(2px);
+    color: aqua;
+}
+
+
+
+
+
+
+a {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+}
+
+@media (max-width:1000px){
+
+    .Contactme-container > *{
+        padding: 0;
+    }
+    .body-container {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        font-size: 1rem;
+    }
+
+    .body-container > * {
+        padding: .25rem;
+        margin: 0 0 .5rem 0;
+    }
+
+    .socials-container > *{
+        flex: 1;
+
+    }
+
+}

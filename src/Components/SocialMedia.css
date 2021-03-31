@@ -1,0 +1,37 @@
+.social-container {
+    margin-top: 4em;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.social-container h3 {
+    text-align: center;
+    font-size: 1.25rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.social-logos > a > *{ 
+  margin: .5em;
+  transition: transform 250ms;
+
+}
+
+.social-logos > a > *:hover{
+    transform: translateY(-2px);
+  }
+
+
+.linked-icon {
+    color:rgb(86, 182, 86);
+}
+  .github-icon {
+    
+    color: rgb(86, 182, 86);
+  }
+
+@media (max-width: 800px) {
+    .social-container {
+     display: none;
+    }
+}

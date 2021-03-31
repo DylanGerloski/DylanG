@@ -1,8 +1,15 @@
-import React from 'react';
+import React from 'react'
+import "./app.css"
+import NavBar from './Components/Navbar.js'
+import Mainbody from './Components/Mainbody.js'
 
 function App() {
   return (
-    <h4>Hello</h4>
+  
+    <div className = "pageContainer">
+       <NavBar/>
+       <Mainbody/>
+    </div>
   );
 }
 

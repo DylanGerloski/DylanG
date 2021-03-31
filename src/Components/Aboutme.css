@@ -1,0 +1,113 @@
+.about-me-container {
+    display: flex;
+    flex-wrap: wrap;
+    color: rgba(255, 255, 255, 0.9);
+    padding-bottom: 20rem;
+ 
+}
+
+
+.heading {
+    padding: 1rem;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex: 1;
+ }
+
+ .heading > * {
+     flex: 1;
+ }
+
+
+
+.heading .heading-words {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 3rem;
+    text-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+}
+
+
+
+.heading .heading-words h1 {
+    font-size: 4rem;
+    padding: .5rem 0;
+   
+}
+
+.heading h1, h4 {
+    font-size: 1.5rem;
+}
+
+
+.blockchain {
+    fill: rgb(86, 182, 86);
+}
+.intro-words {
+    padding: 2rem 3rem 3rem 3rem;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0,0,0,.85);
+    margin: 2rem;
+    box-shadow: 0 0 1em rgba(0,0,0,.7);
+    align-items: flex-start;
+    border-radius: 1em;
+}
+
+
+.intro-words > * {
+    margin: 0 auto;
+}
+
+
+.intro-words p{
+    min-width: 25ch;
+    font-size: 1.25em;
+    padding: 2rem;
+}
+
+.View-my-work {
+    font-size: 2rem;
+    border-style: solid;
+    margin: 0 auto;
+    border-color: rgb(86, 182, 86);
+    background-color:rgba(0,0,0,.95);
+    padding: .5em;
+    transition: transform 250ms;
+}
+
+.View-my-work:hover {
+    background-color: rgba(82, 173, 189, 0.5);
+    transform: translateY(5px);
+}
+
+.View-my-work a {
+    color:rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+
+
+
+@media (max-width:800px){
+    .heading .heading-words {
+       padding: 0;
+       text-align: center;
+    }
+   
+    .intro-words {
+        padding: 0;
+        text-align: center;
+        
+    }
+
+    .blockchain {
+        display: none;
+    }
+
+
+}
