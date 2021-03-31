@@ -33,6 +33,7 @@ const projects = [
         id: '4',
         name: 'KNN and Naive Classifiers from Scratch',
         description: 'Two machinine learning algorithms implemented in Java from scratch. Utilizes the k-fold validation method to test its accuracy. All functionalities were built using only standard java libraries.',
+        link: 'https://github.com/DylanGerloski/NB-and-KNN-Classifiers-from-scratch',
         img: ai
     }
 ]
