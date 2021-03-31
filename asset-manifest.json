@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/DylanG/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/DylanG/static/js/main.074e8618.chunk.js",
-    "main.js.map": "/DylanG/static/js/main.074e8618.chunk.js.map",
-    "runtime-main.js": "/DylanG/static/js/runtime-main.a0ac7063.js",
-    "runtime-main.js.map": "/DylanG/static/js/runtime-main.a0ac7063.js.map",
-    "static/js/2.5bbe4125.chunk.js": "/DylanG/static/js/2.5bbe4125.chunk.js",
-    "static/js/2.5bbe4125.chunk.js.map": "/DylanG/static/js/2.5bbe4125.chunk.js.map",
-    "static/js/3.661233d3.chunk.js": "/DylanG/static/js/3.661233d3.chunk.js",
-    "static/js/3.661233d3.chunk.js.map": "/DylanG/static/js/3.661233d3.chunk.js.map",
+    "main.css": "/DylanG/static/css/main.70d7f7b4.chunk.css",
+    "main.js": "/DylanG/static/js/main.6194fb96.chunk.js",
+    "main.js.map": "/DylanG/static/js/main.6194fb96.chunk.js.map",
+    "runtime-main.js": "/DylanG/static/js/runtime-main.45826827.js",
+    "runtime-main.js.map": "/DylanG/static/js/runtime-main.45826827.js.map",
+    "static/js/2.398bdfd2.chunk.js": "/DylanG/static/js/2.398bdfd2.chunk.js",
+    "static/js/2.398bdfd2.chunk.js.map": "/DylanG/static/js/2.398bdfd2.chunk.js.map",
     "index.html": "/DylanG/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/DylanG/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5bbe4125.chunk.js.LICENSE.txt": "/DylanG/static/js/2.5bbe4125.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/DylanG/static/media/logo.6ce24c58.svg"
+    "static/css/main.70d7f7b4.chunk.css.map": "/DylanG/static/css/main.70d7f7b4.chunk.css.map",
+    "static/js/2.398bdfd2.chunk.js.LICENSE.txt": "/DylanG/static/js/2.398bdfd2.chunk.js.LICENSE.txt",
+    "static/media/Atom-gif.28c738f0.gif": "/DylanG/static/media/Atom-gif.28c738f0.gif",
+    "static/media/Blockchain.3305d50b.svg": "/DylanG/static/media/Blockchain.3305d50b.svg",
+    "static/media/Resume.c825f799.pdf": "/DylanG/static/media/Resume.c825f799.pdf",
+    "static/media/bitmoji.e7d0c3af.png": "/DylanG/static/media/bitmoji.e7d0c3af.png",
+    "static/media/movie.ce5de9ee.jpg": "/DylanG/static/media/movie.ce5de9ee.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0ac7063.js",
-    "static/js/2.5bbe4125.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.074e8618.chunk.js"
+    "static/js/runtime-main.45826827.js",
+    "static/js/2.398bdfd2.chunk.js",
+    "static/css/main.70d7f7b4.chunk.css",
+    "static/js/main.6194fb96.chunk.js"
   ]
 }
