@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DylanG/static/css/main.c82559e3.chunk.css",
-    "main.js": "/DylanG/static/js/main.5027442e.chunk.js",
-    "main.js.map": "/DylanG/static/js/main.5027442e.chunk.js.map",
+    "main.css": "/DylanG/static/css/main.0a6fdf02.chunk.css",
+    "main.js": "/DylanG/static/js/main.d78e2712.chunk.js",
+    "main.js.map": "/DylanG/static/js/main.d78e2712.chunk.js.map",
     "runtime-main.js": "/DylanG/static/js/runtime-main.45826827.js",
     "runtime-main.js.map": "/DylanG/static/js/runtime-main.45826827.js.map",
     "static/js/2.398bdfd2.chunk.js": "/DylanG/static/js/2.398bdfd2.chunk.js",
     "static/js/2.398bdfd2.chunk.js.map": "/DylanG/static/js/2.398bdfd2.chunk.js.map",
     "index.html": "/DylanG/index.html",
-    "static/css/main.c82559e3.chunk.css.map": "/DylanG/static/css/main.c82559e3.chunk.css.map",
+    "static/css/main.0a6fdf02.chunk.css.map": "/DylanG/static/css/main.0a6fdf02.chunk.css.map",
     "static/js/2.398bdfd2.chunk.js.LICENSE.txt": "/DylanG/static/js/2.398bdfd2.chunk.js.LICENSE.txt",
     "static/media/Atom-gif.28c738f0.gif": "/DylanG/static/media/Atom-gif.28c738f0.gif",
     "static/media/Blockchain.3305d50b.svg": "/DylanG/static/media/Blockchain.3305d50b.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.45826827.js",
     "static/js/2.398bdfd2.chunk.js",
-    "static/css/main.c82559e3.chunk.css",
-    "static/js/main.5027442e.chunk.js"
+    "static/css/main.0a6fdf02.chunk.css",
+    "static/js/main.d78e2712.chunk.js"
   ]
 }
