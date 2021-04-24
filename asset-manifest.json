@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/DylanG/static/css/main.0a6fdf02.chunk.css",
-    "main.js": "/DylanG/static/js/main.75dadd2c.chunk.js",
-    "main.js.map": "/DylanG/static/js/main.75dadd2c.chunk.js.map",
+    "main.css": "/DylanG/static/css/main.cc9b8b47.chunk.css",
+    "main.js": "/DylanG/static/js/main.bff329fe.chunk.js",
+    "main.js.map": "/DylanG/static/js/main.bff329fe.chunk.js.map",
     "runtime-main.js": "/DylanG/static/js/runtime-main.45826827.js",
     "runtime-main.js.map": "/DylanG/static/js/runtime-main.45826827.js.map",
     "static/js/2.398bdfd2.chunk.js": "/DylanG/static/js/2.398bdfd2.chunk.js",
     "static/js/2.398bdfd2.chunk.js.map": "/DylanG/static/js/2.398bdfd2.chunk.js.map",
     "index.html": "/DylanG/index.html",
-    "static/css/main.0a6fdf02.chunk.css.map": "/DylanG/static/css/main.0a6fdf02.chunk.css.map",
+    "static/css/main.cc9b8b47.chunk.css.map": "/DylanG/static/css/main.cc9b8b47.chunk.css.map",
     "static/js/2.398bdfd2.chunk.js.LICENSE.txt": "/DylanG/static/js/2.398bdfd2.chunk.js.LICENSE.txt",
     "static/media/Atom-gif.28c738f0.gif": "/DylanG/static/media/Atom-gif.28c738f0.gif",
     "static/media/Blockchain.3305d50b.svg": "/DylanG/static/media/Blockchain.3305d50b.svg",
+    "static/media/DGerloski_Resume.e1dad8f1.pdf": "/DylanG/static/media/DGerloski_Resume.e1dad8f1.pdf",
     "static/media/bitmoji.e7d0c3af.png": "/DylanG/static/media/bitmoji.e7d0c3af.png",
-    "static/media/movie.ce5de9ee.jpg": "/DylanG/static/media/movie.ce5de9ee.jpg",
-    "static/media/resume 4.16.e864c2e2.pdf": "/DylanG/static/media/resume 4.16.e864c2e2.pdf"
+    "static/media/movie.ce5de9ee.jpg": "/DylanG/static/media/movie.ce5de9ee.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.45826827.js",
     "static/js/2.398bdfd2.chunk.js",
-    "static/css/main.0a6fdf02.chunk.css",
-    "static/js/main.75dadd2c.chunk.js"
+    "static/css/main.cc9b8b47.chunk.css",
+    "static/js/main.bff329fe.chunk.js"
   ]
 }
