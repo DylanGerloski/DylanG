@@ -1,6 +1,6 @@
 import React from 'react'
 import './Contactme.css'
-import  resume from '../img/Resume.pdf'
+import  resume from '../img/DGerloski_Resume.pdf'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
     faGithubSquare,
@@ -29,7 +29,7 @@ import {faFile} from "@fortawesome/free-regular-svg-icons";
                     </div>
                     <div className = 'linkedin-container'>
                         <h3>
-                            Make sure to add me on LinkedIn to stay up to date with I'm doing!
+                            Make sure to add me on LinkedIn to stay up to date with  what I'm doing!
                             <a href = 'https://linkedin.com/in/dylan-gerloski' target = '_blank'>
                                 <FontAwesomeIcon icon = {faLinkedin} size = "2x" className = 'linkedin'></FontAwesomeIcon>
                             </a>

@@ -2,7 +2,7 @@ import React from 'react';
 import SocialMedia from './SocialMedia.js'
 import './Navbar.css'
 import bitmoji from "../img/bitmoji.png";
-import resume from '../img/Resume.pdf'
+import resume from '../img/DGerloski_Resume.pdf'
 
 
 function Navbar(){

@@ -17,7 +17,7 @@ const projects = [
     {
         id: '2',
         name: 'Mandlebrot Set',
-        description: 'A C program that renders a picture from the mandelbrot set. Also features parrallel computing to speed up the rendering proccess.',
+        description: 'A C program that renders a picture from the mandelbrot set. Also features parallel computing to speed up the rendering process.',
         link: 'https://github.com/DylanGerloski/Parallelization-in-C',
         img: ms
 
@@ -25,7 +25,7 @@ const projects = [
     {
         id: '3',
         name: 'Movie Predicter',
-        description: 'An R program that uses machine learning to predict movies that you may like. It uses a data set with 1000s of user rating on movies and finds users that have similiar ratings to yourself to predict a movie you will like.',
+        description: 'An R program that uses machine learning to predict movies that you may like. It uses a data set with 1000s of user ratings on movies and finds users that have similiar ratings to yourself to predict a movie you will like.',
         link: 'https://github.com/DylanGerloski/MovieRecomendationSystem',
         img: movie
     },
